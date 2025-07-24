@@ -1,0 +1,1 @@
+# https-github.com-ChandraSekharAI-Salary_Prediction-blob-main-.gitignore
